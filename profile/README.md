@@ -1,42 +1,26 @@
-<div align="center">
+# ✨ Mesqal
 
-# MesqalHQ
+**Mesqal** is an open-source financial ecosystem focused on providing fast, reliable, and accessible market data.
 
-### Real-time rates for USD, EUR, GBP, gold, PAMP and more — in English and Persian
-نرخ لحظه‌ای دلار، یورو، پوند، طلا، پامپ و ده‌ها دارایی دیگر
+Track currencies, gold, cryptocurrencies, and historical trends through modern applications powered by a shared data platform.
 
-</div>
+## 🌐 Projects
+
+| Repository | Description |
+|------------|-------------|
+| **Mesqal-Web** | Web dashboard for market data visualization |
+| **Mesqal-API** | Data collection, processing, and publishing infrastructure |
+| **Mesqal-Android** | Native Android application *(coming soon)* |
+| **Mesqal-Desktop** | Desktop application *(coming soon)* |
+
+## 🎯 Mission
+
+Build simple, beautiful, and accessible financial tools for everyone.
+
+## 📍 Status
+
+Mesqal is currently under active development.
 
 ---
 
-## About
-
-**Mesqal** (مثقال) is a traditional unit for weighing gold. That's the idea behind this project too: a clear, no-nonsense way to track the value of money and metal, built for both English and Persian speakers.
-
-We build **MesqalApp** — a bilingual (EN/FA) app and website for tracking currency and precious metal prices with live charts.
-
-## Features
-
-- 💱 Live prices for major currencies (USD, EUR, GBP) and more
-- 🪙 Gold, PAMP, and coin pricing
-- 📈 Historical charts and trends
-- 🌐 Full English / Persian (فارسی) support, including right-to-left layout
-- 📱 Available as a web app and mobile app
-
-## Projects
-
-| Repo | Description |
-|---|---|
-| [`mesqal-app`](#) | Main mobile/web application |
-| [`mesqal-web`](#) | Marketing site and web dashboard |
-| [`mesqal-api`](#) | Rate aggregation and API service |
-
-## Links
-
-- 🌍 Website: [mesqalapp.com](#)
-- 📱 App: coming soon
-- ✉️ Contact: hello@mesqalapp.com
-
-## Contributing
-
-Issues, feature requests, and pull requests are welcome — see individual repos for contribution guidelines.
+Built with ❤️ by **Amirmasoud**
