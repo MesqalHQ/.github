@@ -1,12 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# MesqalHQ
 
-**Here are some ideas to get you started:**
+### Real-time rates for USD, EUR, GBP, gold, PAMP and more — in English and Persian
+نرخ لحظه‌ای دلار، یورو، پوند، طلا، پامپ و ده‌ها دارایی دیگر
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+---
+
+## About
+
+**Mesqal** (مثقال) is a traditional unit for weighing gold. That's the idea behind this project too: a clear, no-nonsense way to track the value of money and metal, built for both English and Persian speakers.
+
+We build **MesqalApp** — a bilingual (EN/FA) app and website for tracking currency and precious metal prices with live charts.
+
+## Features
+
+- 💱 Live prices for major currencies (USD, EUR, GBP) and more
+- 🪙 Gold, PAMP, and coin pricing
+- 📈 Historical charts and trends
+- 🌐 Full English / Persian (فارسی) support, including right-to-left layout
+- 📱 Available as a web app and mobile app
+
+## Projects
+
+| Repo | Description |
+|---|---|
+| [`mesqal-app`](#) | Main mobile/web application |
+| [`mesqal-web`](#) | Marketing site and web dashboard |
+| [`mesqal-api`](#) | Rate aggregation and API service |
+
+## Links
+
+- 🌍 Website: [mesqalapp.com](#)
+- 📱 App: coming soon
+- ✉️ Contact: hello@mesqalapp.com
+
+## Contributing
+
+Issues, feature requests, and pull requests are welcome — see individual repos for contribution guidelines.
